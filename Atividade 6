@@ -1,0 +1,5 @@
+celsius = float(input("digite a temperaturas em graus celsius:") )
+
+fahrenheit = (celsius *9/5) + 32 
+
+print (f"A temperatura em Fahrenheit é: {fahrenheit} graus Fahrenheit")
